@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/frontendmentorfaqaccordion/static/css/main.f132824a.css",
+    "main.js": "/frontendmentorfaqaccordion/static/js/main.fd25b415.js",
+    "static/media/background-pattern-desktop.svg": "/frontendmentorfaqaccordion/static/media/background-pattern-desktop.621478cf83f8150af604.svg",
+    "index.html": "/frontendmentorfaqaccordion/index.html",
+    "static/media/icon-star.svg": "/frontendmentorfaqaccordion/static/media/icon-star.189fd38b8aefdc8fbe0d.svg",
+    "static/media/icon-plus.svg": "/frontendmentorfaqaccordion/static/media/icon-plus.6c5381bcc9a768ea5c3683e11c6bfd6c.svg",
+    "static/media/icon-minus.svg": "/frontendmentorfaqaccordion/static/media/icon-minus.5575b6de09a1e0deab1dd585ada35f31.svg",
+    "main.f132824a.css.map": "/frontendmentorfaqaccordion/static/css/main.f132824a.css.map",
+    "main.fd25b415.js.map": "/frontendmentorfaqaccordion/static/js/main.fd25b415.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f132824a.css",
+    "static/js/main.fd25b415.js"
+  ]
+}
