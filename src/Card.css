@@ -1,0 +1,11 @@
+.card {
+  max-width: 600px;
+  z-index: 1;
+  background-color: white;
+  margin-top: 167.5px;
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  padding: 40px;
+ }

@@ -1,0 +1,8 @@
+.accordion > .accordion-item:not(:first-child) {
+	padding-top: 24px;
+}
+
+.accordion > .accordion-item:not(:last-child) {
+	border-bottom: 1px solid var(--Light-pink);
+	padding-bottom: 24px;
+}

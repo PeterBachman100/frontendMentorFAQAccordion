@@ -1,0 +1,31 @@
+.accordion-item {
+	display: flex;
+	flex-direction: column;
+	gap: 24px;
+}
+
+.accordion-toggle {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.accordion-toggle h3 {
+	cursor: pointer;
+	font-size: 18px;
+	font-weight: 600;
+}
+.accordion-toggle h3:hover {
+	color: var(--Pink);
+}
+
+.toggle-icon {
+	cursor: pointer;
+	width: 30px;
+	height: 30px;
+}
+
+.accordion-panel {
+	font-size: 16px;
+	color: var(--Pale-purple);
+}
